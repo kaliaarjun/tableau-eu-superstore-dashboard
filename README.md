@@ -36,7 +36,7 @@ A Tableau dashboard on the Sample – EU Superstore dataset (5,112 orders, 15 co
 - Dashboard built with containers and floating legends
 
 ## Files
-- `EU Superstore Sales Dashboard.twbx` – Tableau workbook
+- `EU Superstore Sales & Profitability Dashboard.twbx` – Tableau workbook
 - `Sample - EU Superstore.xlsx` – source data
 - `dashboard.png` – screenshot
 
